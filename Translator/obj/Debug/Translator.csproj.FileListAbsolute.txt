@@ -1,0 +1,6 @@
+C:\Projekty\Translator\Translator\bin\Debug\Translator.exe.config
+C:\Projekty\Translator\Translator\bin\Debug\Translator.exe
+C:\Projekty\Translator\Translator\bin\Debug\Translator.pdb
+C:\Projekty\Translator\Translator\obj\Debug\Translator.csprojResolveAssemblyReference.cache
+C:\Projekty\Translator\Translator\obj\Debug\Translator.exe
+C:\Projekty\Translator\Translator\obj\Debug\Translator.pdb
